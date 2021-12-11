@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eggplanttoken/static/css/main.d731e969.chunk.css",
-    "main.js": "/eggplanttoken/static/js/main.38af5db9.chunk.js",
-    "main.js.map": "/eggplanttoken/static/js/main.38af5db9.chunk.js.map",
+    "main.js": "/eggplanttoken/static/js/main.2f1fb64d.chunk.js",
+    "main.js.map": "/eggplanttoken/static/js/main.2f1fb64d.chunk.js.map",
     "runtime-main.js": "/eggplanttoken/static/js/runtime-main.ed34fb8f.js",
     "runtime-main.js.map": "/eggplanttoken/static/js/runtime-main.ed34fb8f.js.map",
-    "static/js/2.e6ea36a7.chunk.js": "/eggplanttoken/static/js/2.e6ea36a7.chunk.js",
-    "static/js/2.e6ea36a7.chunk.js.map": "/eggplanttoken/static/js/2.e6ea36a7.chunk.js.map",
+    "static/js/2.eb94db72.chunk.js": "/eggplanttoken/static/js/2.eb94db72.chunk.js",
+    "static/js/2.eb94db72.chunk.js.map": "/eggplanttoken/static/js/2.eb94db72.chunk.js.map",
     "index.html": "/eggplanttoken/index.html",
-    "precache-manifest.d5818a3652b30e748583d2e0da3643d4.js": "/eggplanttoken/precache-manifest.d5818a3652b30e748583d2e0da3643d4.js",
+    "precache-manifest.c54c41fcaf3c51fd2c76e876ac87c9e0.js": "/eggplanttoken/precache-manifest.c54c41fcaf3c51fd2c76e876ac87c9e0.js",
     "service-worker.js": "/eggplanttoken/service-worker.js",
     "static/css/main.d731e969.chunk.css.map": "/eggplanttoken/static/css/main.d731e969.chunk.css.map",
     "static/media/Document.pdf": "/eggplanttoken/static/media/Document.4b41a347.pdf",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ed34fb8f.js",
-    "static/js/2.e6ea36a7.chunk.js",
+    "static/js/2.eb94db72.chunk.js",
     "static/css/main.d731e969.chunk.css",
-    "static/js/main.38af5db9.chunk.js"
+    "static/js/main.2f1fb64d.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eggplanttoken/precache-manifest.d5818a3652b30e748583d2e0da3643d4.js"
+  "/eggplanttoken/precache-manifest.c54c41fcaf3c51fd2c76e876ac87c9e0.js"
 );
 
 self.addEventListener('message', (event) => {
