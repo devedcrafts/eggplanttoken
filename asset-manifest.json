@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/eggplanttoken/static/css/main.d731e969.chunk.css",
-    "main.js": "/eggplanttoken/static/js/main.2f1fb64d.chunk.js",
-    "main.js.map": "/eggplanttoken/static/js/main.2f1fb64d.chunk.js.map",
-    "runtime-main.js": "/eggplanttoken/static/js/runtime-main.ed34fb8f.js",
-    "runtime-main.js.map": "/eggplanttoken/static/js/runtime-main.ed34fb8f.js.map",
-    "static/js/2.eb94db72.chunk.js": "/eggplanttoken/static/js/2.eb94db72.chunk.js",
-    "static/js/2.eb94db72.chunk.js.map": "/eggplanttoken/static/js/2.eb94db72.chunk.js.map",
+    "main.css": "/eggplanttoken/static/css/main.910b2300.chunk.css",
+    "main.js": "/eggplanttoken/static/js/main.f5f94bf4.chunk.js",
+    "main.js.map": "/eggplanttoken/static/js/main.f5f94bf4.chunk.js.map",
+    "runtime-main.js": "/eggplanttoken/static/js/runtime-main.9dfd2bfc.js",
+    "runtime-main.js.map": "/eggplanttoken/static/js/runtime-main.9dfd2bfc.js.map",
+    "static/js/2.b0e5940c.chunk.js": "/eggplanttoken/static/js/2.b0e5940c.chunk.js",
+    "static/js/2.b0e5940c.chunk.js.map": "/eggplanttoken/static/js/2.b0e5940c.chunk.js.map",
+    "static/js/3.bc2ab9d3.chunk.js": "/eggplanttoken/static/js/3.bc2ab9d3.chunk.js",
+    "static/js/3.bc2ab9d3.chunk.js.map": "/eggplanttoken/static/js/3.bc2ab9d3.chunk.js.map",
     "index.html": "/eggplanttoken/index.html",
-    "precache-manifest.c54c41fcaf3c51fd2c76e876ac87c9e0.js": "/eggplanttoken/precache-manifest.c54c41fcaf3c51fd2c76e876ac87c9e0.js",
-    "service-worker.js": "/eggplanttoken/service-worker.js",
-    "static/css/main.d731e969.chunk.css.map": "/eggplanttoken/static/css/main.d731e969.chunk.css.map",
-    "static/media/Document.pdf": "/eggplanttoken/static/media/Document.4b41a347.pdf",
-    "static/media/eggplantlogo.svg": "/eggplanttoken/static/media/eggplantlogo.50c1490d.svg",
-    "static/media/rainingeggplantsplain.svg": "/eggplanttoken/static/media/rainingeggplantsplain.8f85aceb.svg"
+    "static/css/main.910b2300.chunk.css.map": "/eggplanttoken/static/css/main.910b2300.chunk.css.map",
+    "static/js/2.b0e5940c.chunk.js.LICENSE.txt": "/eggplanttoken/static/js/2.b0e5940c.chunk.js.LICENSE.txt",
+    "static/media/document.50585334.pdf": "/eggplanttoken/static/media/document.50585334.pdf",
+    "static/media/eggplantlogo.19b51d74.svg": "/eggplanttoken/static/media/eggplantlogo.19b51d74.svg",
+    "static/media/rainingeggplantsplain.0b6034ed.svg": "/eggplanttoken/static/media/rainingeggplantsplain.0b6034ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed34fb8f.js",
-    "static/js/2.eb94db72.chunk.js",
-    "static/css/main.d731e969.chunk.css",
-    "static/js/main.2f1fb64d.chunk.js"
+    "static/js/runtime-main.9dfd2bfc.js",
+    "static/js/2.b0e5940c.chunk.js",
+    "static/css/main.910b2300.chunk.css",
+    "static/js/main.f5f94bf4.chunk.js"
   ]
 }
