@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eggplanttoken/static/css/main.910b2300.chunk.css",
-    "main.js": "/eggplanttoken/static/js/main.57510d47.chunk.js",
-    "main.js.map": "/eggplanttoken/static/js/main.57510d47.chunk.js.map",
+    "main.js": "/eggplanttoken/static/js/main.01facac8.chunk.js",
+    "main.js.map": "/eggplanttoken/static/js/main.01facac8.chunk.js.map",
     "runtime-main.js": "/eggplanttoken/static/js/runtime-main.9dfd2bfc.js",
     "runtime-main.js.map": "/eggplanttoken/static/js/runtime-main.9dfd2bfc.js.map",
     "static/js/2.b0e5940c.chunk.js": "/eggplanttoken/static/js/2.b0e5940c.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/eggplanttoken/index.html",
     "static/css/main.910b2300.chunk.css.map": "/eggplanttoken/static/css/main.910b2300.chunk.css.map",
     "static/js/2.b0e5940c.chunk.js.LICENSE.txt": "/eggplanttoken/static/js/2.b0e5940c.chunk.js.LICENSE.txt",
-    "static/media/document.7cffbbec.pdf": "/eggplanttoken/static/media/document.7cffbbec.pdf",
+    "static/media/document.1ce78936.pdf": "/eggplanttoken/static/media/document.1ce78936.pdf",
     "static/media/eggplantlogo.19b51d74.svg": "/eggplanttoken/static/media/eggplantlogo.19b51d74.svg",
     "static/media/rainingeggplantsplain.0b6034ed.svg": "/eggplanttoken/static/media/rainingeggplantsplain.0b6034ed.svg"
   },
@@ -20,6 +20,6 @@
     "static/js/runtime-main.9dfd2bfc.js",
     "static/js/2.b0e5940c.chunk.js",
     "static/css/main.910b2300.chunk.css",
-    "static/js/main.57510d47.chunk.js"
+    "static/js/main.01facac8.chunk.js"
   ]
 }
